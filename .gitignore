@@ -1,0 +1,19 @@
+# 環境變量
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虛擬環境
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 向量數據庫
+.chroma/

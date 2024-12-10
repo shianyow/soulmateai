@@ -1,0 +1,10 @@
+langchain-core>=0.1.4
+langchain-community>=0.0.16
+langchain-openai>=0.0.5
+chromadb
+python-dotenv
+openai
+tiktoken
+fastapi
+uvicorn
+python-multipart
